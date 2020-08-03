@@ -3,19 +3,20 @@
 ### I'm entering my third year of Computer Science.
 - :office: I’m currently looking for a Winter 2021 Co-op!
 - :hammer: I’m working on creating a [custom website][website].
-- 🌱 I’m currently learning [Node.js](www.nodejs.org), [Data Structures](https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm.woa/5/wo/miT6SsiNJiyfiebxSqWQi0/3.3.10.8.3.19.0.5), and [Databases](https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm.woa/5/wo/miT6SsiNJiyfiebxSqWQi0/3.3.10.8.3.42.0.5).
-- :mortar_board: I attend [York University](www.yorku.ca).
+- 🌱 I’m currently learning Node.js, Data Structures, and Databases. 
+- :mortar_board: I attend [York University](https://www.yorku.ca).
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 
 Thanks for stopping by!
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="tariqsyed.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="tariqsyed1 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="tariqsyed1 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="tariqsyed1 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="tariqsyed1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 
 <br />
 
