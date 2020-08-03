@@ -1,6 +1,6 @@
-### Hi there, I'm [Tariq][website] 👋
+### Hi there! I'm [Tariq][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Computer Science student and aspiring software developer!
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
