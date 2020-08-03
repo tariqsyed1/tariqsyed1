@@ -1,10 +1,11 @@
 ## Hi there! I'm [Tariq][website] 👋
 
 ### I'm entering my third year of Computer Science.
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👯 I’m looking for 
+- 🔭 I’m currently working on creating a[custom website][website]!
+- 🌱 I’m currently learning Node.js, Data Structures, and Databases.
+- :mortar_board: I attend [York University](www.yorku.ca).
+- 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
@@ -65,12 +66,7 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[website]: https://tariqsyed.me
+[linkedin]: https://www.linkedin.com/in/tariq-syed-5b9903193/
+[instagram]: https://instagram.com/tariqsyed1
+[spotify]: 
