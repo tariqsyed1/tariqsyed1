@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Node.js, Data Structures, and Databases.
 - :mortar_board: I attend [York University](www.yorku.ca).
 - 🥅 2020 Goals: Contribute more to Open Source projects.
-- Fun fact: I like cars :car:  
 
 ### Connect with me:
 
