@@ -3,10 +3,10 @@
 ### I'm entering my third year of Computer Science.
 - :office: I’m currently looking for a Winter 2021 Co-op!
 - :hammer: I’m working on creating a [custom website][website].
-- 🌱 I’m currently learning Node.js, Data Structures, and Databases
+- 🌱 I’m currently learning Node.js, Data Structures, and Databases.
 - :mortar_board: I attend [York University](www.yorku.ca).
 - 🥅 2020 Goals: Contribute more to Open Source projects.
-- :car: Fun fact: I like cars
+- :car: Fun fact: I like cars 
 
 ### Connect with me:
 
