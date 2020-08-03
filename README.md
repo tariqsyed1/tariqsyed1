@@ -3,7 +3,7 @@
 ### I'm entering my third year of Computer Science.
 - :office: I’m currently looking for a Winter 2021 Co-op!
 - :hammer: I’m working on creating a [custom website][website].
-- 🌱 I’m currently learning Node.js, Data Structures, and Databases.
+- 🌱 I’m currently learning [Node.js](www.nodejs.org), [Data Structures](https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm.woa/5/wo/miT6SsiNJiyfiebxSqWQi0/3.3.10.8.3.19.0.5), and [Databases](https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm.woa/5/wo/miT6SsiNJiyfiebxSqWQi0/3.3.10.8.3.42.0.5).
 - :mortar_board: I attend [York University](www.yorku.ca).
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 
