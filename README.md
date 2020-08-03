@@ -1,12 +1,12 @@
 ## Hi there! I'm [Tariq][website] 👋
 
 ### I'm entering my third year of Computer Science.
-- 👯 I’m currently looking for a Winter 2021 co-op
-- 🔭 I’m working on creating a[custom website][website]
+- :office: I’m currently looking for a Winter 2021 Co-op!
+- :hammer: I’m working on creating a [custom website][website].
 - 🌱 I’m currently learning Node.js, Data Structures, and Databases
 - :mortar_board: I attend [York University](www.yorku.ca).
 - 🥅 2020 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I like BMW's
+- :car: Fun fact: I like cars
 
 ### Connect with me:
 
