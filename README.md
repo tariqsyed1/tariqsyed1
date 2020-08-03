@@ -21,7 +21,7 @@ Thanks for stopping by!
 ### Languages and Tools:
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />](https://python.org)
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />](https://java.com/en/)
-[<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />](https://en.wikipedia.org/wiki/C_(programming_language)
+[<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />](https://en.wikipedia.org/wiki/C_prgramming_language)
 
 
 
