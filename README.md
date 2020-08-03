@@ -1,12 +1,12 @@
 ## Hi there! I'm [Tariq][website] 👋
 
 ### I'm entering my third year of Computer Science.
-- 👯 I’m looking for 
-- 🔭 I’m currently working on creating a[custom website][website]!
-- 🌱 I’m currently learning Node.js, Data Structures, and Databases.
+- 👯 I’m currently looking for a Winter 2021 co-op
+- 🔭 I’m working on creating a[custom website][website]
+- 🌱 I’m currently learning Node.js, Data Structures, and Databases
 - :mortar_board: I attend [York University](www.yorku.ca).
 - 🥅 2020 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I like BMW's
 
 ### Connect with me:
 
@@ -20,9 +20,9 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][https://code.visualstudio.com/]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][https://en.wikipedia.org/wiki/HTML5]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][https://en.wikipedia.org/wiki/Cascading_Style_Sheets]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
