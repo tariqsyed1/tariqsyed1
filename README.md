@@ -1,5 +1,6 @@
 ## Hi there! I'm [Tariq][website] 👋
 
+<!-- SUMMARY:START -->
 ### I'm entering my third year of Computer Science.
 - :office: I’m currently looking for a Winter 2021 Co-op!
 - :hammer: I’m working on creating a [custom website][website].
@@ -7,7 +8,11 @@
 - :mortar_board: I attend [York University](https://www.yorku.ca).
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 
+
 If you're here for examples of my work, scroll down below to see my pinned projects. Thanks for stopping by!
+<!-- SUMMARY:END -->
+
+<!-- CONNECT:START -->
 
 ### Connect with me:
 
@@ -15,6 +20,10 @@ If you're here for examples of my work, scroll down below to see my pinned proje
 [<img align="left" alt="tariqsyed1 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="tariqsyed1 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<!-- CONNECT:END -->
+
+
+<!-- LANGUAGES:START -->
 
 <br />
 
@@ -34,29 +43,25 @@ If you're here for examples of my work, scroll down below to see my pinned proje
 [<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />](https://www.linux.org/)
 
 <br />
+<!-- LANGUAGES:END -->
 <br />
 
 ---
 
 ### 📕 Topics of Interest
-<!-- BLOG-POST-LIST:START -->
+<!-- TOPICSOFINTEREST:START -->
 - [Software Engineering](https://en.wikipedia.org/wiki/Outline_of_software_engineering)
-- [Databases](https://en.wikipedia.org/wiki/Outline_of_databases)
-- [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
 - [Full Stack Development](https://www.w3schools.com/whatis/whatis_fullstack.asp)
+- [Databases](https://en.wikipedia.org/wiki/Outline_of_databases)
 - [Data Structures](https://en.wikipedia.org/wiki/Data_structure)
-<!-- BLOG-POST-LIST:END -->
+- [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
+
+<!-- TOPICSOFINTEREST:END -->
 
 ---
 
 <img align="left" alt="tariqsyed1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tariqsyed1&show_icons=true&hide_border=true" />
 
 [website]: https://tariqsyed.me
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/tariqsyed1
 [linkedin]: https://www.linkedin.com/in/tariq-syed-5b9903193/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
