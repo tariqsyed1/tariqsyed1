@@ -1,12 +1,12 @@
-## Hi there! I'm [Tariq][website] 👋
+## Hi there! I'm Tariq 👋
 
 <!-- SUMMARY:START -->
 ### I'm entering my third year of Computer Science.
-- :office:  I’m currently looking for a Winter 2021 Co-op!
-- :hammer:  I’m working on creating a [custom website][website].
-- 🌱  I’m currently learning Node.js, Data Structures, and Databases. 
-- :mortar_board:  I attend [York University](https://www.yorku.ca).
-- 🥅  2020 Goals: Contribute more to Open Source projects.
+- :office: I’m currently looking for a Winter 2021 Co-op!
+- :hammer: I’m working on creating a [custom website][website].
+- 🌱 I’m currently learning Node.js, Data Structures, and Databases. 
+- :mortar_board: I attend [York University](https://www.yorku.ca).
+- 🥅 2020 Goals: Contribute more to Open Source projects.
 
 
 If you're here for examples of my work, scroll down below to see my pinned projects. Thanks for stopping by!
