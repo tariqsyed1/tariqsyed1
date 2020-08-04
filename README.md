@@ -7,7 +7,7 @@
 - :mortar_board: I attend [York University](https://www.yorku.ca).
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 
-Thanks for stopping by!
+If you're here for examples of my work, scroll down below to see my pinned projects. Thanks for stopping by!
 
 ### Connect with me:
 
