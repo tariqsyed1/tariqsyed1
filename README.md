@@ -49,13 +49,13 @@ If you're here for examples of my work, scroll down below to see my pinned proje
 
 ---
 
-### 📕 Topics of Interest
+### 📕 Relevant Coursework
 <!-- TOPICSOFINTEREST:START -->
-- [Software Engineering](https://en.wikipedia.org/wiki/Outline_of_software_engineering)
-- [Full Stack Development](https://www.w3schools.com/whatis/whatis_fullstack.asp)
-- [Databases](https://en.wikipedia.org/wiki/Outline_of_databases)
-- [Data Structures](https://en.wikipedia.org/wiki/Data_structure)
-- [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
+- Data Structures and Algorithms
+- Databases
+- Object Oriented Programming
+- C and Bash
+- Computer Organization
 
 <!-- TOPICSOFINTEREST:END -->
 
