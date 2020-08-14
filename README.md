@@ -19,7 +19,6 @@ If you're here for examples of my work, scroll down below to see my pinned proje
 [<img align="left" alt="tariqsyed.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="tariqsyed1 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Tariq | Email " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:hello@tariqsyed.me)
-[<img align="left" alt="tariqsyed1 | Snapchat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/snapchat.svg" />](https://www.snapchat.com/add/tariqsyed1)
 
 <!-- CONNECT:END -->
 
