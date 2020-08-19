@@ -6,10 +6,9 @@
 - :hammer: I’m working on creating a [custom website][website].
 - 🌱 I’m currently learning Node.js, Data Structures, and Databases. 
 - :mortar_board: I attend [York University](https://www.yorku.ca).
-- 🥅 2020 Goals: Contribute more to Open Source projects.
 
 
-If you're here for examples of my work, scroll down below to see my pinned projects. Thanks for stopping by!
+If you're here for examples of my work, click the repositories tab. Thanks for stopping by!
 <!-- SUMMARY:END -->
 
 <!-- CONNECT:START -->
