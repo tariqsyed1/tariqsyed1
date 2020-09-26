@@ -47,18 +47,6 @@ If you're here for examples of my work, click the repositories tab. Thanks for s
 
 ---
 
-### 📕 Relevant Coursework
-<!-- TOPICSOFINTEREST:START -->
-- Data Structures and Algorithms
-- Databases
-- Object Oriented Programming
-- C and Bash
-- Computer Organization
-
-<!-- TOPICSOFINTEREST:END -->
-
----
-
 <img align="left" alt="tariqsyed1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tariqsyed1&show_icons=true&hide_border=true" />
 
 [website]: https://tariqsyed.me
