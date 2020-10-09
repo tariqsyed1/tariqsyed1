@@ -47,7 +47,7 @@ If you're here for examples of my work, click the repositories tab. Thanks for s
 
 ---
 
-[![Tariq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tariqsyed1)]()
+[![Tariq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tariqsyed1&count_private=true)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tariqsyed1)](https://github.com/anuraghazra/github-readme-stats)
 
