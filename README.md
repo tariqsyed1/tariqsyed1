@@ -48,6 +48,8 @@ If you're here for examples of my work, click the repositories tab. Thanks for s
 ---
 
 <img align="left" alt="tariqsyed1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tariqsyed1&show_icons=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [website]: https://tariqsyed.me
 [instagram]: https://instagram.com/tariqsyed1
