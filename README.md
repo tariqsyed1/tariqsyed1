@@ -47,7 +47,7 @@ If you're here for examples of my work, click the repositories tab. Thanks for s
 
 ---
 
-[![Tariq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tariqsyed1&count_private=true&show_icons=true&hide_rank=true&hide_border=true&theme=gradient)]
+![Tariq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tariqsyed1&show_icons=true&hide_rank=true&hide_border=true)
 
 
 [website]: https://tariqsyed.me
