@@ -2,9 +2,10 @@
 
 <!-- SUMMARY:START -->
 ### I'm in my third year of Computer Science.
-- :office: I'm an incoming intern [@caseware](https://www.caseware.com/ca) for Winter 2021
-- :hammer: I’m working on creating a [custom website][website]
+- :office: I'm an incoming intern [@caseware](https://www.caseware.com/ca) for Winter 2021.
 - :mortar_board: I attend [York University](https://www.yorku.ca).
+- :hammer: I’m working on creating a [custom website][website].
+
 <!-- SUMMARY:END -->
 
 <!-- CONNECT:START -->
