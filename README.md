@@ -9,8 +9,8 @@ const tariq = {
   "languages": ["Python", "Java", "JavaScript", "SQL", "C", "HTML", "CSS"],
   "technologies": ["Node.js", "Bash", "Git", "Unix"],
   "contact": {
-    "email": "www.tariqsyed.me",
-    "website":"hello@tariqsyed.me",
+    "website": "www.tariqsyed.me",
+    "email":"hello@tariqsyed.me",
     "linkedin":"https://www.linkedin.com/in/tariq-syed1"
   }
     
