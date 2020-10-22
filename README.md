@@ -10,10 +10,10 @@ const tariq = {
   "technologies": ["Node.js", "Bash", "Git", "Unix"],
   "contact": {
     "website": "www.tariqsyed.me",
-    "email":"hello@tariqsyed.me",
-    "linkedin":"https://www.linkedin.com/in/tariq-syed1"
+    "email": "hello@tariqsyed.me",
+    "linkedin": "https://www.linkedin.com/in/tariq-syed1"
   }
     
 }
 ```
-![Tariq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tariqsyed1&show_icons=true&hide_rank=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tariqsyed1&show_icons=true&hide_rank=true&hide_border=true)
