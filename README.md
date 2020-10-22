@@ -1,16 +1,19 @@
-## Hi there! I'm Tariq 👋
+### Hi there! I'm Tariq 👋
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+const tariq = {
+  "name": "Tariq Syed",
+  "age": 20,
+  "experience": "Test Developer Intern @ CaseWare",
+  "education": "Third Year CS Student @ York University",
+  "languages": ["Python", "Java", "JavaScript", "SQL", "C", "HTML", "CSS"],
+  "technologies": ["Node.js", "Bash", "Git", "Unix"],
+  "contact": {
+    "email": "www.tariqsyed.me",
+    "website":"hello@tariqsyed.me",
+    "linkedin":"https://www.linkedin.com/in/tariq-syed1"
+  }
+    
 }
 ```
+![Tariq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tariqsyed1&show_icons=true&hide_rank=true&hide_border=true)
