@@ -2,7 +2,6 @@
 
 ```javascript
 const tariq = {
-  "name": "Tariq Syed",
   "age": 20,
   "experience": "Test Developer Intern @ CaseWare",
   "education": "Third Year CS Student @ York University",
