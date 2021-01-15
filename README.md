@@ -2,8 +2,7 @@
 
 ```javascript
 const tariq = {
-  "age": 20,
-  "experience": "Test Developer Intern @ CaseWare",
+  "experience": "Test Developer @ CaseWare",
   "education": "Third Year CS Student @ York University",
   "languages": ["Python", "Java", "JavaScript", "SQL", "C", "HTML", "CSS"],
   "technologies": ["Node.js", "Bash", "Git", "Unix"],
