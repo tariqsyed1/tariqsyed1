@@ -1,7 +1,7 @@
 ### Hi there! I'm Tariq 👋
 
 ```javascript
-const tariq ={
+const tariq = {
   "experience": {
     "current": "Software Engineering Intern @ PRN Digital",
     "previous": "Test Developer Intern @ CaseWare",
