@@ -11,7 +11,7 @@ const tariq = {
   "contact": {
     "website": "www.tariqsyed.me",
     "email": "hello@tariqsyed.me",
-    "linkedin": "linnkedin.com/in/tariqs1"
+    "linkedin": "linkedin.com/in/tariqs1"
   }
 }
 ```
