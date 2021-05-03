@@ -1,17 +1,20 @@
 ### Hi there! I'm Tariq 👋
 
 ```javascript
-const tariq = {
-  "experience": "Test Developer @ CaseWare",
-  "education": "Third Year CS Student @ York University",
-  "languages": ["Python", "Java", "JavaScript", "SQL", "C", "HTML", "CSS"],
-  "technologies": ["Node.js", "Bash", "Git", "Unix"],
+const tariq ={
+  "name": "Tariq Syed",
+  "age": 20,
+  "experience": {
+    "current": "Software Engineering Intern @ PRN Digital",
+    "previous": "Test Developer Intern @ CaseWare",
+    "education": "Third Year Computer Science @ YorkU"
+  },
+  "languages": ["Python", "TypeScript", "Java", "SQL", "C", "HTML/CSS"],
   "contact": {
-    "website": "tariqsyed.me",
+    "website": "www.tariqsyed.me",
     "email": "hello@tariqsyed.me",
-    "linkedin": "linkedin.com/in/tariq-syed1"
+    "linkedin": "linnkedin.com/in/tariqs1"
   }
-    
 }
 ```
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tariqsyed1&show_icons=true&hide_rank=true&hide_border=true)
