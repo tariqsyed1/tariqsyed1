@@ -2,7 +2,6 @@
 
 ```javascript
 const tariq ={
-  "age": 20,
   "experience": {
     "current": "Software Engineering Intern @ PRN Digital",
     "previous": "Test Developer Intern @ CaseWare",
