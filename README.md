@@ -2,7 +2,6 @@
 
 ```javascript
 const tariq ={
-  "name": "Tariq Syed",
   "age": 20,
   "experience": {
     "current": "Software Engineering Intern @ PRN Digital",
