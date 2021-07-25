@@ -3,8 +3,7 @@
 ```javascript
 const tariq = {
   "experience": {
-    "current": "Software Engineering Intern @ PRN Digital",
-    "previous": "Test Developer Intern @ CaseWare",
+    "current": "Test Developer Intern @ CaseWare",
     "education": "Third Year Computer Science @ YorkU"
   },
   "languages": ["Python", "TypeScript", "Java", "SQL", "C", "HTML/CSS"],
