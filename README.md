@@ -9,7 +9,7 @@
 - :seedling: Seeking Summer 2022 internship opportunities
 <!-- SUMMARY:END -->
 
----  
+<hr />
 
 <!-- CONNECT:START --> 
 <a href="https://twitter.com/abhisheknaiidu">
