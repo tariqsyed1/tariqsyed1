@@ -18,8 +18,11 @@
 <a href="https://open.spotify.com/user/tariqsyed1">
   <img align="left" alt="Tariq's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+<a href="https://www.tariqsyed.me">
+  <img align="left" alt="Tariq's Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+</a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=tariqsyed1)
 
 <!-- CONNECT:END -->
 
