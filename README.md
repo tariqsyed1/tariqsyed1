@@ -1,12 +1,15 @@
 
-### Hi there! I'm Tariq 👋
+
+## Hi there! I'm Tariq 👋
 
 <!-- SUMMARY:START -->
 - :mortar_board:  I'm a third year computer science student @[YorkU](https://www.yorku.ca)
 
-- :office:  Previously interned @[CaseWare](https://www.caseware.com), @[BZAM](https://bzam.com/), @[PRN Digital](https://prndigital.ca/)
+-  🔜 Incoming SDE Intern @[Amazon](http://amazon.ca/) 
 
-- :seedling:  Seeking Summer 2022 internship opportunities
+- :office:  Previously interned @[CaseWare](https://www.caseware.com), @[BZAM](https://bzam.com/)
+
+- :seedling:  Seeking 2023 New Graduate Opportunities
 <!-- SUMMARY:END -->
 
 ###
