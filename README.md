@@ -3,7 +3,7 @@
 ## Hi there! I'm Tariq 👋
 
 <!-- SUMMARY:START -->
-- :mortar_board:  I'm a third year computer science student @[YorkU](https://www.yorku.ca)
+- :mortar_board:  Third year computer science student @[YorkU](https://www.yorku.ca)
 
 -  🔜 Incoming SDE Intern @[Amazon](http://amazon.ca/) 
 
