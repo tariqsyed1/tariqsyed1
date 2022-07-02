@@ -3,9 +3,9 @@
 ## Hi there! I'm Tariq 👋
 
 <!-- SUMMARY:START -->
-- :mortar_board:  Third year computer science student @[YorkU](https://www.yorku.ca)
+- :mortar_board:  Fourth year computer science student @[YorkU](https://www.yorku.ca)
 
--  🔜 Incoming SDE Intern @[Amazon](http://amazon.ca/) 
+-  👨‍💻 SDE Intern @[Amazon](http://amazon.ca/) 
 
 - :office:  Previously interned @[CaseWare](https://www.caseware.com), @[BZAM](https://bzam.com/)
 
