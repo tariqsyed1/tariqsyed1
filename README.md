@@ -24,10 +24,6 @@
 <a href="hello@tariqsyed.me">
   <img align="left" alt="Tariq's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://open.spotify.com/user/tariqsyed1">
-  <img align="left" alt="Tariq's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-
 
 ![](https://visitor-badge.glitch.me/badge?page_id=tariqsyed1)
 
