@@ -3,7 +3,7 @@
 ## Hi there! I'm Tariq 👋
 
 <!-- SUMMARY:START -->
--  👨‍💻 Software Develoment Engineer @[Amazon](http://amazon.ca/) 
+-  👨‍💻 Software Development Engineer @[Amazon](http://amazon.ca/) 
 
 - :mortar_board:  Bachelor of Science in Computer Science, Class of 2023 @[YorkU](https://www.yorku.ca)
 
